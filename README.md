@@ -1,1 +1,3 @@
-# como-comprar-measurable-data-token-mdt
+[**Cómo comprar Measurable Data Token (MDT)**](https://topcryptoguide.com/como-comprar-measurable-data-token-mdt/)
+
+Este artículo explica **cómo comprar Measurable Data Token (MDT)**, la criptomoneda asociada a un proyecto que busca recompensar a los usuarios por compartir datos de manera segura y transparente. Para adquirir MDT normalmente debes **crear una cuenta en un exchange confiable** que liste el token (como Binance, KuCoin u otros), **verificar tu identidad** si corresponde, y **depositar fondos** en fiat o stablecoins como USDT antes de proceder a ejecutar la compra desde el mercado spot. Algunas plataformas también permiten comprar MDT con **tarjeta de crédito/débito** o intercambiando otros criptoactivos. Tras la compra, se recomienda **mover los tokens a un wallet seguro** para proteger tus claves privadas y mantener control total sobre tus activos.
